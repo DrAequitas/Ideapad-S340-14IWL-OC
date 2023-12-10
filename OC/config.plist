@@ -1736,7 +1736,7 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02753100QXHWVPUE</string>
+			<string></string>
 			<key>ProcessorType</key>
 			<integer>1537</integer>
 			<key>ROM</key>
@@ -1748,9 +1748,9 @@
 			<key>SystemProductName</key>
 			<string>MacBookPro14,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02VX020HV29</string>
+			<string></string>
 			<key>SystemUUID</key>
-			<string>74529BC0-61E7-437E-A280-ED226719496E</string>
+			<string></string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
